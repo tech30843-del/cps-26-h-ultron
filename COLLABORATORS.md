@@ -1,5 +1,4 @@
-# Team Name: [Enter your team name here]
-
+# Team Name: cps-26-h-ultron
 
 ## Collaborators
 |        Name          | Specialization | Role / Focus Area | GitHub Username | Contribution Summary |
