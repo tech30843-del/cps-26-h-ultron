@@ -4,11 +4,11 @@
 ## Collaborators
 |        Name          | Specialization | Role / Focus Area | GitHub Username | Contribution Summary |
 |----------------------|----------------|-------------------|-----------------|-----------------------|
-|Mohamed Omar boubaker |     ST-IOT
-|Montassar Nawarra     |     ST-IOT
-|Zied Daif             |     ST-IOT
-|Hechem Ghorbel        |     ST-IOT
-|Leila Douissa         |     ST-IOT
+|Mohamed Omar boubaker |     ST-IOT     |                   |tech30843-del    |
+|Montassar Nawarra     |     ST-IOT     |                   |Montassarnawara  |
+|Zied Daif             |     ST-IOT     |                   |zied42           |
+|Hechem Ghorbel        |     ST-IOT     |                   |hechem1234       |
+|Leila Douissa         |     ST-IOT     |                   |LeilaD3          |
 
 
 
