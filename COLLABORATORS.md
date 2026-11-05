@@ -2,8 +2,14 @@
 
 
 ## Collaborators
-| Name | Specialization | Role / Focus Area | GitHub Username | Contribution Summary |
-|------|----------------|-------------------|-----------------|----------------------|
+|        Name          | Specialization | Role / Focus Area | GitHub Username | Contribution Summary |
+|----------------------|----------------|-------------------|-----------------|-----------------------|
+|Mohamed Omar boubaker |     ST-IOT
+|Montassar Nawarra     |     ST-IOT
+|Zied Daif             |     ST-IOT
+|Hechem Ghorbel        |     ST-IOT
+|Leila Douissa         |     ST-IOT
+
 
 
 
